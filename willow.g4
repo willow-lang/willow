@@ -1,5 +1,11 @@
 // work in progress
 grammar willow;
 
-@header
+@header:
   | package name;
+
+Whitespace:
+  | [ \t]+ -> skip;
+
+LineComment:
+  | ';;' ~[\r\n]* -> skip;
