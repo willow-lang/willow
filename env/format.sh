@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Format all code with astyle
+
+STYLEOPTS="--style=attach --indent-switches --convert-tabs \
+		  --align-pointer=name --pad-header --pad-oper --unpad-paren --indent-labels"
+
+astyle $STYLEOPTS */*.java
+astyle $STYLEOPTS */*/*.jar
+astyle $STYLEOPTS */*/*.g4
