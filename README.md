@@ -2,7 +2,7 @@
 
 The willow lisp dialect
 
-<-- Good readme.md template:
+<!-- Good readme.md template:
 
 # Fennel
 
