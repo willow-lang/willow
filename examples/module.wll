@@ -1,0 +1,7 @@
+(define-module hello 
+  :import base
+  :export hello))
+
+(define-function greet
+  :print "Hello world from greet.module"))
+  
