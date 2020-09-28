@@ -65,12 +65,4 @@ Copyright © 2020 Timo Sarkar and contributors
 
 Released under the [MIT license](LICENSE).
 
-[1]: https://404
-[2]: https://404
-[3]: https://404
-[4]: http://404
-[5]: https://404
-[7]: https://404
-[8]: 
-[9]: https://404
-[11]: https://404
+
