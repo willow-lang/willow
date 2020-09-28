@@ -12,7 +12,7 @@ expressive, extensible and modular.
 
 * The [setup](setup.md) guide is a great place to start
 * The [tutorial](tutorial.md) teaches the basics of the language
-* The [reference](reference.md) describes all Fennel special forms
+* The [reference](reference.md) describes all Willow special forms
 * The [API listing](api.md) shows how to integrate Willow into your codebase
 * The [Antlr primer](antlr-primer.md) gives a very brief intro to Antlr4 with
   pointers to further details
