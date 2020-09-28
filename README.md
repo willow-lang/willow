@@ -63,6 +63,6 @@ run a Willow file anywhere on your system.
 
 Copyright © 2020 Timo Sarkar and contributors
 
-Released under the [MIT license](LICENSE).
+Released under the [Apache 2.0 license](LICENSE).
 
 
